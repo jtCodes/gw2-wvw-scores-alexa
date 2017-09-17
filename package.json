@@ -1,0 +1,12 @@
+{
+  "name": "Wvw_Score",
+  "version": "1.0.0",
+  "description": "Get wvw score update",
+  "main": "index.js",
+  "author": "Jiaan Tan",
+  "dependencies": {
+    "alexa-sdk": "^1.0.11",
+    "bluebird": "^3.5.0",
+    "promise": "^8.0.1"
+  }
+}
